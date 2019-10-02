@@ -26,7 +26,8 @@ your file, you can commit to the repository using the "Commit" button at the top
 to add meaningful descriptions to tell people exactly what you're committing to the project.
 
 9. To finalize the changes in the project on GitHub, you can "Push" the commits. In order to do this, navigate to VCS -> Git -> Push
-or hit Ctrl + Shift + K. 
+or hit Ctrl + Shift + K. If you haven't already added your GitHub account to WebStorm, you will be prompted to do so on your first
+push attempt.
 
 **Term Definitions:**
 
